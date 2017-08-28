@@ -17,7 +17,6 @@ var fs = require('fs');
 var appEnv = null;
 var conversationWorkspace, conversation;
 
-
 var request = require('request');
 
 // =====================================
