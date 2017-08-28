@@ -3,6 +3,11 @@
         background-repeat: no-repeat;
         background-size: cover;
   }
+
+  .box.box-primary {
+      border-top-color: #dbd4b8 !important;
+  }
+
   html, body, #wrapper {
     margin: 0;
     padding: 0;
